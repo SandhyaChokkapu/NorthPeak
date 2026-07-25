@@ -48,7 +48,7 @@ Digital-Heroes/
 
 ## 🌐 Live Demo
 
-🔗 Add your GitHub Pages link here
+🔗 https://sandhyachokkapu.github.io/NorthPeak/
 
 ---
 
@@ -57,7 +57,7 @@ Digital-Heroes/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SandhyaChokkapu/digital-heroes-website.git
+git clone https://github.com/SandhyaChokkapu/NorthPeak.git
 ```
 
 ### Run the project
@@ -88,12 +88,6 @@ No installation or backend setup is required.
 - Advanced animations
 - Performance optimization
 - Dark mode support
-
----
-
-## 📸 Screenshots
-
-(Add website screenshots here)
 
 ---
 
