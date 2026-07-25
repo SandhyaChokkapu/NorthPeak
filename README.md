@@ -38,8 +38,12 @@ The project focuses on implementing responsive design, structured layouts, inter
 Digital-Heroes/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── css/
+│   └── styles.css
+│   └── styles.min.css
+├── js/
+│   └── script.js
+│   └── script.min.js
 ├── assets/
 └── README.md
 ```
